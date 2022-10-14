@@ -7,7 +7,7 @@ exports[`Evaluando el componente gifItem Hacer match con el snapshot 1`] = `
   >
     <img
       alt="Mono"
-      src="https://mono.io"
+      src="https://mono.io/mono.jpg"
     />
     <p>
       Mono
